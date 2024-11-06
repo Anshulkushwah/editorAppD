@@ -1,0 +1,12 @@
+/* MyEditor.css */
+.editor-container {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 4px;
+  min-height: 200px;
+}
+
+.red-line {
+  border-top: 2px solid red;
+  margin-top: 10px;
+}
